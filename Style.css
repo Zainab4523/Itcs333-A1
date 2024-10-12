@@ -6,6 +6,7 @@ header{
     padding-top: 20px;
     text-align: center;
     height: 110px;
+    color: #052e3d;
 }
 nav{
     background-color: #064860;
@@ -18,9 +19,26 @@ nav a{
     padding-left: 10px;
     padding-right: 10px;
     color: white;
+    text-decoration: none; 
+}
+nav a:hover {
+    color: #00a2ff;
 }
 main{
-
+    padding: 20px; 
+    max-width: 800px; 
+    margin: 20px auto;  
+    border-radius: 10px; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+}
+section {
+    margin-bottom: 20px; 
+    padding: 15px; 
+    border: 1px solid #094474; 
+    border-radius: 5px; 
+}
+h2 {
+    color: #064860;
 }
 .gallery {
     display: flex;
@@ -28,9 +46,12 @@ main{
 }
 .gallery img {
     border: 2px solid #487382;
+    border-radius: 5px; 
+    margin: 5px; 
 }
 footer{
-    background-color: #4873823;
+    background-color: #064860;
     text-align: center;
     padding: 10px;
+    color: white;
 }
