@@ -4,5 +4,18 @@ body{
 header{
     background-color: #ffcc00;
     text-align: center;
-    padding: 20px;
+    height: 110px;
+}
+nav{
+    background-color: #333;
+    height: 40px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+main{
+
+}
+footer{
+    background-color: #ffcc00;
+    text-align: center;
 }
