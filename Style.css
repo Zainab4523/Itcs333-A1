@@ -1,14 +1,14 @@
 body{
-    background-color: #f0f8ff;
+    background-color: #cdd1d5;
 }
 header{
-    background-color: #ffcc00;
+    background-color: #487382;
     padding-top: 20px;
     text-align: center;
     height: 110px;
 }
 nav{
-    background-color: #333;
+    background-color: #064860;
     height: 40px;
     padding-top: 14px;
     padding-bottom: 14px;
@@ -27,10 +27,10 @@ main{
     justify-content: space-around;
 }
 .gallery img {
-    border: 2px solid #ffcc00;
+    border: 2px solid #487382;
 }
 footer{
-    background-color: #ffcc00;
+    background-color: #4873823;
     text-align: center;
     padding: 10px;
 }
