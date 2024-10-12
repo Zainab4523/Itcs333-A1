@@ -3,6 +3,7 @@ body{
 }
 header{
     background-color: #ffcc00;
+    padding-top: 20px;
     text-align: center;
     height: 110px;
 }
@@ -11,6 +12,11 @@ nav{
     height: 40px;
     padding-top: 14px;
     padding-bottom: 14px;
+    text-align: center;
+}
+nav a{
+    padding-left: 10px;
+    padding-right: 10px;
 }
 main{
 
@@ -18,4 +24,5 @@ main{
 footer{
     background-color: #ffcc00;
     text-align: center;
+    padding: 10px;
 }
